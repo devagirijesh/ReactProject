@@ -104,6 +104,6 @@ class Seat extends React.Component {
   }
   
   
-  ReactDOM.render(<Seat name="Rachelle" />, document.getElementById('app'));
+  // ReactDOM.render(<Seat name="Rachelle" />, document.getElementById('app'));
 
 export default Seat
